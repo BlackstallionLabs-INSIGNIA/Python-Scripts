@@ -58,10 +58,9 @@ elif choice == 3:
         print(29 * '-')
         num1 = input("Insert Number 1: ")
         num2 = input("Insert number 2: ")
-        print (num2 + num1)('is the answer')
+        print (num2 + num1)
         print (29 * '-')
         
-
 else:
         print ("Invalid number. Try again...")
         print (29 * '-')
