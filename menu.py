@@ -17,10 +17,10 @@ time.sleep(.1)
 
 print (29 * '-')
 
-## Get input ###
+## Get the user's choice ###
 choice = input('Enter your choice [1-3] : ')
 
-### Convert string to int type ##
+### Change the string to an integer##
 choice = int(choice)
 
 ### Select an option ###
