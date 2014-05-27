@@ -1,6 +1,5 @@
 #! /usr/bin/env python3
-print("By !ns!gn!a")
-print("Copyright BlackStallion Labs")
+print("By R00T0ID")
 print("Random Number thing")
 num1 = input("Insert Number 1: ")
 num2 = input("Insert number 2: ")
