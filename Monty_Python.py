@@ -2,7 +2,7 @@
 #Script by Seamus Abergel-Preston
 #Copyright R00T0ID
 #This line prints the author's info
-print("By !ns!gn!a")
+print("By R00T0ID")
 print("Copyright BlackStallion Labs")
 #This section sets the variables 'name, quest, and color'
 name = input("What is your name?")
