@@ -1,6 +1,6 @@
 #! /usr/bin/env python3
 #Script by Seamus Abergel-Preston
-#Copyright BlackStallion Labs
+#Copyright R00T0ID
 #This line prints the author's info
 print("By !ns!gn!a")
 print("Copyright BlackStallion Labs")
