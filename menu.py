@@ -1,7 +1,7 @@
 #! /usr/bin/env python3
 
 import time
-print ('By !NS!GN!A & Blackstallion Labs.')
+print ('By R00Y0ID & R00Tlabs.')
 print (29 * '-')
 time.sleep(.1)
 print ("   P R O G R A M - M E N U")
@@ -28,7 +28,7 @@ if choice == 1:
         print('Loading...')
         time.sleep(.1)
         print(29 * '-')
-        print('This menu script was designed by !NS!GN!A for Blackstallion labs. ' 
+        print('This menu script was designed by R00T0ID for R00TLabs. ' 
         'Each week, check my github repo for new scripts, whick will be added '
         'to this menu. Just redownload it and you are good to go!' ' If you use ' 
         'this script in any of your projects please DO NOT delete the `about` section.'
