@@ -1,7 +1,7 @@
 #! /usr/bin/env python3
 
 import time
-print ('By R00Y0ID & R00Tlabs.')
+print ('By R00T0ID & R00Tlabs.')
 print (29 * '-')
 time.sleep(.1)
 print ("   P R O G R A M - M E N U")
